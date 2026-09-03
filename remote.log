@@ -1,1 +1,1 @@
-9b5d897b-c5be-402a-8c86-6cde945b6bb7 autoenable=true bucket=cneuromod.gamepad.timeseries chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.gamepad.timeseries port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1788451958s
+9b5d897b-c5be-402a-8c86-6cde945b6bb7 autoenable=true bucket=cneuromod.gamepad.timeseries chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.gamepad.timeseries port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1788452045s
